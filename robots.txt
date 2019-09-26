@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pathizeogh.candy-cone.com/sitemap.xml
